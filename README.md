@@ -4,7 +4,7 @@
 
 ## About
 Uhmmmmmm... just a small photos project I guess...
-Basically a image reviewer from specific dates. Built using Next.js and tailwind. It will probably have a good design (if we feel like we are gonna do it) but yeah thats it.
+Basically a image reviewer from specific dates. Built using Next.js and tailwind. It will probably have a good design (if we feel like doing it) but yeah thats it.
 
 ## For devs:
 Running the dev server (very basic)
