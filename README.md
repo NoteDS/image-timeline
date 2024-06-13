@@ -13,7 +13,9 @@ Writing good code (also hard but less hard but still hardw)
 
 ## Docs
 [tailwindcss docs](https://tailwindcss.com/docs/)
+
 [next docs](https://nextjs.org/docs) (quite important)
+
 I think thats it...
 
 ## For devs:
