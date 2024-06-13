@@ -22,6 +22,11 @@ Running the dev server (very basic)
 ```bash
 npm run dev
 ```
+Installing required things for node 
+```bash
+npm install
+```
+
 Add something here if its gonna be useful later.
 
 
