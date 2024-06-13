@@ -12,9 +12,9 @@ Actually using the docs (ik its hard but we must)
 Writing good code (also hard but less hard but still hardw)
 
 ## Docs
-[![tailwindcss docs](https://tailwindcss.com/docs/)]
-[![next docs](https://nextjs.org/docs)] (quite important)
-I think thats it tbh...
+[![tailwindcss docs](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/docs/)
+[![next docs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/docs) (quite important)
+I think thats it...
 
 ## For devs:
 Running the dev server (very basic)
